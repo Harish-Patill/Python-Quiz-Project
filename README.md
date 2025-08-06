@@ -1,5 +1,8 @@
 # Python-Quiz-Project
 
+![Quiz Screenshot](images/quiz_python.png)
+
+
 ## Description:
 This Python Quiz Project allows you to conduct an interactive quiz through the terminal. The questions and answers are stored in a dictionary (questions_and_answers) which you can easily update before running the program. When executed, the program presents each question to the user, accepts their input as the answer, and checks it against the correct answer.
 
